@@ -1,2 +1,0 @@
-Final DR and DL analyses for the GABAergic class are located in the corresponding class atlas folders. 
-Those for GABAergic and glutamatergic are in the "Initialization" folder. 
