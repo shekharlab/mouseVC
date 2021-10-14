@@ -1,4 +1,4 @@
-# Vision is Required for Cell Type Specification in the Visual Cortex
+# Vision-dependent specification of cell types and function in the developing cortex
 
 This respository contains all of the code used to analyze snRNA-seq data from the study. 
 
